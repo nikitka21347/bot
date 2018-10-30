@@ -2,11 +2,10 @@
 Path = sqlite:///./base.db
 
 [Telegram]
-access_token = 
-chat = 
-
+access_token = 727642211:AAETsUwzgLRzTm7EYhzVpCZRTcCOjes9Fp0
+chat =
 [RSS]
-link1 =
+link1 = https://habr.com/
 link2 =
 link3
 
